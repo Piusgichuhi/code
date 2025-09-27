@@ -1,0 +1,5 @@
+{
+  "name": "Aegis AI Dashboard",
+  "description": "An advanced, AI-powered dashboard for cybersecurity monitoring, news aggregation, and infrastructure insights, featuring a built-in terminal and Gemini AI assistance.",
+  "requestFramePermissions": []
+}
